@@ -1,0 +1,18 @@
+<template>
+    <div class="font-medium">
+        <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg ">
+        <path d="M17.4883 17L22.4883 12L17.4883 7M7.48828 7L2.48828 12L7.48828 17M14.4883 3L10.4883 21" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M17.4883 17L22.4883 12L17.4883 7M7.48828 7L2.48828 12L7.48828 17M14.4883 3L10.4883 21" stroke="#E6F6FF" stroke-opacity="0.9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+    </div>
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
